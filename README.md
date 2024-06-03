@@ -21,16 +21,17 @@ Install the following
 3. Open Visual Studio Code > View > Terminal 
     Shorcut Key > Ctrl+`
 4. Clone Repo using command ```git clone https://github.com/lorwinpogi/InventorySystem.git```
-5. Go to C:\xampp 
-6. Open ``` xampp-control ```
-7. Click Start ``` Apache ``` and ``` MySQL ``` 
-8. Open Browser
-9. Go to URL ``` http://localhost/phpmyadmin ```
-10. Create Database: ``` inventorymgtci ```
-11. Click Import > Choose File
-12. Go to Database File 
-13. Import  ``` inventorymgtci ```
-14. Open to Browser and Go to URL http://localhost/InventorySystem/
+5. Type in Terminal ``` cd InventorySystem and then git checkout develop``` 
+6. Go to C:\xampp 
+7. Open ``` xampp-control ```
+8. Click Start ``` Apache ``` and ``` MySQL ``` 
+9. Open Browser
+10. Go to URL ``` http://localhost/phpmyadmin ```
+11. Create Database: ``` inventorymgtci ```
+12. Click Import > Choose File
+13. Go to Database File 
+14. Import  ``` inventorymgtci ```
+15. Open to Browser and Go to URL http://localhost/InventorySystem/
 
 
 ### User Accounts
